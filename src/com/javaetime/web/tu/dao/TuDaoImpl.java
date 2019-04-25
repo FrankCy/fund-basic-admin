@@ -20,7 +20,7 @@ public class TuDaoImpl {
 	private String sDBDriver = "com.mysql.jdbc.Driver";
 	private String sConnStr = "jdbc:mysql://localhost:3306/fund?useUnicode=true&characterEncoding=utf-8";//设置数据库名称为：pubs
     private String username = "root";  //登录数据库用户名
-    private String password = "root";   //登录数据库密码
+    private String password = "frank";   //登录数据库密码
 
     
     /**
