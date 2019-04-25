@@ -34,6 +34,8 @@
 |  | 邮件发送 |
 
 ## 依赖jar包 ##
+```shell
+
 activation.jar
 antlr-2.7.7.jar
 aopalliance-1.0.jar
@@ -107,6 +109,7 @@ tomcat-juli-7.0.57.jar
 validation-api-1.1.0.Final.jar
 xml-apis-1.0.b2.jar
 
+```
 ## 目录结构 ##
 ```shell
 ├── JavaETime.iml
