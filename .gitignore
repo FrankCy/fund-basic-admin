@@ -1,0 +1,17 @@
+*.project
+*.classpath
+*.settings
+*.iml
+.idea
+/*/target
+logs
+*.classpath
+*.log*
+.DS_Store
+*.mvn
+out
+WebRoot/WEB-INF/classes
+.java
+*.war
+build
+jdbc.properties
